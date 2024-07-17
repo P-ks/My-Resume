@@ -1,2 +1,2 @@
 # My-Resume
-Qr code functionalirty added in Resume
+Qr code functionqlity added in Resume
