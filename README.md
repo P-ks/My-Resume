@@ -1,2 +1,2 @@
 # My-Resume
-just created a QR code for my resume 
+Qr code functionalirty added in Resume
